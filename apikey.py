@@ -1,1 +1,1 @@
-apikey="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"
+apikey="YOUR-API-KEY"
